@@ -1,2 +1,2 @@
 # Time-Series-Forecasting
-TSA using SARIMA
+Time series forecasting using SARIMAX
